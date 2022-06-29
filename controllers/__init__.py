@@ -1,0 +1,4 @@
+from controllers.hashtags_controller import Hashtags_controller
+from controllers.tweets_controller import Tweets_controller
+from controllers.tweepy_controller import Tweepy_controller
+from controllers.scrap_controller import Scrap_controller
